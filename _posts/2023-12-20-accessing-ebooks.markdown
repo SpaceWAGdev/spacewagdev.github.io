@@ -18,7 +18,10 @@ The functionality for mobile operating systems is severely limited. On Android a
 # Downloading Books from Library Genesis directly to Calibre
 Calibre has an extensive plugin repository maintained by the community.
 
-A plugin I can recommend is the [Libgen Calibre Store][store-plugin] plugin. It lets you search for and download from Library Genesis directly from the Calibre interface. To install it, follow [these steps][store-plugin-install]
+A plugin I can recommend is the [Libgen Calibre Store][store-plugin] plugin. It lets you search for and download from Library Genesis directly from the Calibre interface. To install it, follow [these steps][store-plugin-install].
+
+# Libgen doesn't have your book?
+You can always try alternative sources. [Hatt](/hatt/) lets you search multiple sites at once.
 
 [libgen]: https://libgen.is
 [calibre]: https://calibre-ebook.com/download
