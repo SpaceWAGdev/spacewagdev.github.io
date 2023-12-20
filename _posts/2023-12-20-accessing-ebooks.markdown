@@ -12,7 +12,7 @@ If you're not planning on managing a large library of ebooks, your go-to site sh
 If you're planning to download a lot of ebooks to your device, you might want an interface to manage them aswell as have a proper reader for EPUB files.
 
 The program I use foor this purpose is the [Calibre][calibre] ebook reader and manager.
-It is avaiable for Linux, Windows, and MacOS. 
+It is available for Linux, Windows, and MacOS. 
 The functionality for mobile operating systems is severely limited. On Android and iOS, the Calibre app only connects to a computer running calibre (tldr: If you want mobile Calibre, you need a computer already running it).
 
 # Downloading Books from Library Genesis directly to Calibre
