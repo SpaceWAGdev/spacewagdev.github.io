@@ -12,3 +12,7 @@ permalink: /hatt/
 
 ![Hatt Screenshot](https://raw.githubusercontent.com/FrenchGithubUser/Hatt/main/.meta/home.jpg)
 
+Hatt is an amazing program that lets you search direct download sites for content.
+
+Instead of having your own list of sites you have to visit, search and move to the next because it doesn't have the one thing you're trying to watch/read/listen to, it searches lots of sites at once, returning results fairly quickly.
+
