@@ -21,7 +21,7 @@
 title: Mark Of The Web
 email: starlight-caffeine@posteo.org
 description: >- # this means to ignore newlines until "baseurl:"
-
+I write guides on things I get questions about regularly.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  SpaceWagDev
