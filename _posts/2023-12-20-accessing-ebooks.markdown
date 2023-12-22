@@ -26,4 +26,4 @@ You can always try alternative sources. [Hatt](/hatt/) lets you search multiple 
 [libgen]: https://libgen.is
 [calibre]: https://calibre-ebook.com/download
 [store-plugin]: https://github.com/poochinski9/libgen-calibre-store-plugin/releases/tag/1.2
-[store-plugin-install]: https://github.com/poochinski9/libgen-calibre-store-plugin/releases/tag/1.2
+[store-plugin-install]: https://github.com/poochinski9/libgen-calibre-store-plugin#installation
