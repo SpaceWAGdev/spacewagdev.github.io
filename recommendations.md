@@ -11,3 +11,9 @@ permalink: /recs/
 
 # Browser Extensions
 - AdBlocker: [uBlock Origin](https://ublockorigin.com/)
+- [Dark Reader](https://darkreader.org/) 
+- [Image Search Options](https://addons.mozilla.org/en-GB/firefox/addon/image-search-options/)
+
+# Search Engines
+- [SearX](https://searx.space/) Scrapes multiple search engines for results and aggregates them
+- [Startpage](https://www.startpage.com/) [NON-FOSS] Scrapes Google for results and displays them anonymously

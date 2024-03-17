@@ -21,9 +21,10 @@ Calibre has an extensive plugin repository maintained by the community.
 A plugin I can recommend is the [Libgen Calibre Store][store-plugin] plugin. It lets you search for and download from Library Genesis directly from the Calibre interface. To install it, follow [these steps][store-plugin-install].
 
 # Libgen doesn't have your book?
-You can always try alternative sources. [Hatt](/hatt/) lets you search multiple sites at once.
+You can always try alternative sources. [Hatt](/hatt/) lets you search multiple sites at once. [Anna's Archive](annas-archive) mirrors Libgen, Sci-Hub and scrapes even more.
 
 [libgen]: https://libgen.is
 [calibre]: https://calibre-ebook.com/download
 [store-plugin]: https://github.com/poochinski9/libgen-calibre-store-plugin/releases/tag/1.2
 [store-plugin-install]: https://github.com/poochinski9/libgen-calibre-store-plugin#installation
+[annas-archive]: https://annas-archive.org/
